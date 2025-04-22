@@ -1,0 +1,45 @@
+{
+    "kind": "youtube#channel",
+    "etag": "nP-1nTV0fA16D66lz6rdLmdnuuc",
+    "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+    "snippet": {
+        "title": "Veritasium",
+        "description": "An element of truth - videos about science, education, and anything else I find interesting.",
+        "customUrl": "@veritasium",
+        "publishedAt": "2010-07-21T07:18:02Z",
+        "thumbnails": {
+            "default": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_nSatGjGLZG1_O1ztYxuKvRazCbk9A0kPhtt2NxEH4ZKfA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+            },
+            "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_nSatGjGLZG1_O1ztYxuKvRazCbk9A0kPhtt2NxEH4ZKfA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+            },
+            "high": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_nSatGjGLZG1_O1ztYxuKvRazCbk9A0kPhtt2NxEH4ZKfA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+            }
+        },
+        "localized": {
+            "title": "Veritasium",
+            "description": "An element of truth - videos about science, education, and anything else I find interesting."
+        },
+        "country": "US"
+    },
+    "contentDetails": {
+        "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UUHnyfMqiRRG1u-2MsSQLbXA"
+        }
+    },
+    "statistics": {
+        "viewCount": "3237853134",
+        "subscriberCount": "17700000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "436"
+    }
+}
